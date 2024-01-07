@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Python Programming",
+      "price": 29.99
+    },
+    {
+      "id": "2",
+      "title": "Data Science for Beginners",
+      "price": 39.99
+    },
+    {
+      "id": "3",
+      "title": "Web Development with Flask",
+      "price": 24.95
+    },
+    {
+      "id": "4",
+      "title": "Machine Learning Fundamentals",
+      "price": 49.99
+    },
+    {
+      "id": "5",
+      "title": "Siksa Kubur",
+      "price": 29.0
+    },
+    {
+      "id": "6",
+      "title": "Data Science for Babies",
+      "price": 5.99
+    }
+  ]
+}
