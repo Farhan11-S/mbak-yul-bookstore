@@ -1,3 +1,11 @@
+'''
+Anggota kelompok : 
+1. 202351080 - Fattakhul Munir Wildan Syafian 
+2. 202351086 - Farhan Sangaji 
+3. 202351094 - Yunus Dwi Wibisono
+
+'''
+
 import json
 from admin import main as admin
 from shop import main as shop
